@@ -14,6 +14,9 @@
         <fileset id="fileset3" name="Quickstart Withanno" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/basic_dl/quickstart-withanno.xml</file>
         </fileset>
+        <fileset id="fileset4" name="Inject Constructor" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/basic_di/inject-constructor.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
