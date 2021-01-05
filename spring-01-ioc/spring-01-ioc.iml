@@ -17,6 +17,9 @@
         <fileset id="fileset4" name="Inject Constructor" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/basic_di/inject-constructor.xml</file>
         </fileset>
+        <fileset id="fileset5" name="Quickstart Init Destroy" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/lifecycle/quickstart-init-destroy.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>

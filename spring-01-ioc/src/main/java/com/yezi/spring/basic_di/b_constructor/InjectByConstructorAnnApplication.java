@@ -4,7 +4,6 @@ import com.yezi.spring.basic_di.b_constructor.bean.Person;
 import com.yezi.spring.basic_di.b_constructor.config.InjectByConstructorConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class InjectByConstructorAnnApplication {
     public static void main(String[] args) {

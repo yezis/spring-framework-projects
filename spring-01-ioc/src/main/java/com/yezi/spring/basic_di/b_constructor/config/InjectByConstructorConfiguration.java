@@ -1,6 +1,5 @@
 package com.yezi.spring.basic_di.b_constructor.config;
 
-import com.sun.org.apache.bcel.internal.generic.RETURN;
 import com.yezi.spring.basic_di.b_constructor.bean.Person;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
