@@ -1,7 +1,5 @@
 package com.yezi.spring.lifecycle.a_initmethod;
 
-import com.sun.org.apache.bcel.internal.util.ClassPath;
-import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class XmlApplication {

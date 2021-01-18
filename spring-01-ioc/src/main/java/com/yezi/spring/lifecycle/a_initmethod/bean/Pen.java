@@ -1,7 +1,6 @@
 package com.yezi.spring.lifecycle.a_initmethod.bean;
 
 import org.springframework.stereotype.Component;
-
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
