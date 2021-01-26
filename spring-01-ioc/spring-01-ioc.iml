@@ -20,6 +20,12 @@
         <fileset id="fileset5" name="Quickstart Init Destroy" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/lifecycle/quickstart-init-destroy.xml</file>
         </fileset>
+        <fileset id="fileset6" name="Definition Beans" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/definition/definition-beans.xml</file>
+        </fileset>
+        <fileset id="fileset7" name="Definition Remove" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/definition/definition-remove.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
